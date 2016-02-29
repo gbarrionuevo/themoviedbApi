@@ -1,0 +1,66 @@
+#buscador {
+width:40%;
+display:block;
+padding-bottom:25px;
+margin:25px auto;
+}
+
+#search {
+float:left;
+}
+
+#divBuscador {
+width:70%;
+float:left;
+}
+
+.titleMovie {
+font-family:Arial;
+font-weight:700;
+font-size:16px;
+width:100px;
+text-decoration:underline;
+}
+
+.overviewMovie {
+font-family:Arial;
+font-size:12px;
+}
+
+#resultado {
+float:left;
+margin:25px;
+}
+
+#divPeliculas {
+margin-top:50px;
+clear:both;
+}
+
+#tituloPanel {
+text-align:center;
+}
+
+.poster {
+width:52px;
+height:72px;
+}
+
+.carousel-inner > .item > img,.carousel-inner > .item > a > img {
+width:70%;
+margin:auto;
+}
+
+#myCarousel {
+width:50%;
+margin-left:auto;
+margin-right:auto;
+display:flex;
+}
+
+.newSearch {
+visibility:hidden;
+text-align:center;
+margin-top:45px;
+margin-bottom:20px;
+}
